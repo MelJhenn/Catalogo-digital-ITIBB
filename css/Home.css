@@ -39,7 +39,7 @@
 .u-section-1 .u-image-1 {
   width: 668px;
   height: 668px;
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working3.jpg");
+  background-image: url("../img/Fondo.jpg");
   background-position: 50% 50%;
   margin: -668px 190px 0 auto;
 }
@@ -241,7 +241,9 @@
   .u-section-1 .u-text-2 {
     margin-right: 0;
   }
-} .u-section-2 {
+}
+
+.u-section-2 {
   background-image: none;
   min-height: 773px;
 }
@@ -417,7 +419,7 @@
 }
 
 @media (max-width: 991px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 1170px;
   }
 
@@ -439,7 +441,7 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 1415px;
   }
 
@@ -481,7 +483,7 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-2 {
+  .u-section-2 {
     min-height: 1547px;
   }
 
@@ -507,7 +509,9 @@
   .u-section-2 .u-repeater-1 {
     min-height: 1047px;
   }
-} .u-section-3 {
+}
+
+.u-section-3 {
   background-image: none;
 }
 
@@ -548,7 +552,7 @@
   background-image: none;
   width: 632px;
   min-height: 488px;
-  box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.15);
+  box-shadow: 5px 5px 20px 0 rgba(0, 0, 0, 0.15);
   --animation-custom_in-translate_x: 300px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
@@ -697,7 +701,9 @@
   .u-section-3 .u-text-3 {
     margin-right: 0;
   }
-} .u-section-4 {
+}
+
+.u-section-4 {
   background-image: none;
 }
 
@@ -746,7 +752,7 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(71,92,98,0.75), rgba(71,92,98,0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -772,7 +778,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(71,92,98,0.75), rgba(71,92,98,0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/wr3q.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/wr3q.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -798,7 +804,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(71,92,98,0.75), rgba(71,92,98,0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3453.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3453.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -824,7 +830,7 @@
 }
 
 .u-section-4 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(71,92,98,0.75), rgba(71,92,98,0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/5467.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/5467.jpg');
   background-position: 50% 50%;
 }
 
@@ -845,7 +851,7 @@
 }
 
 .u-section-4 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(71,92,98,0.75), rgba(71,92,98,0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/5tr5.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/5tr5.jpg');
   background-position: 50% 50%;
 }
 
@@ -1012,7 +1018,9 @@
     padding-left: 25px;
     padding-right: 25px;
   }
-} .u-section-5 {
+}
+
+.u-section-5 {
   background-image: none;
 }
 
@@ -1284,8 +1292,10 @@
   .u-section-5 .u-image-2 {
     min-height: 379px;
   }
-} .u-section-6 {
-  background-image: linear-gradient(0deg, rgba(41,49,51,0.85), rgba(41,49,51,0.85)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/concentrated-job-business-people-manager-working-their-new-project-classroom-rtett.jpg');
+}
+
+.u-section-6 {
+  background-image: linear-gradient(0deg, rgba(41, 49, 51, 0.85), rgba(41, 49, 51, 0.85)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/concentrated-job-business-people-manager-working-their-new-project-classroom-rtett.jpg');
   background-position: 50% 50%;
 }
 
@@ -1552,7 +1562,9 @@
     padding-right: 28px;
     padding-left: 27px;
   }
-}.u-section-7 .u-sheet-1 {
+}
+
+.u-section-7 .u-sheet-1 {
   min-height: 1215px;
 }
 
@@ -1767,7 +1779,9 @@
     margin-top: -695px;
     margin-bottom: 652px;
   }
-}.u-section-8 .u-sheet-1 {
+}
+
+.u-section-8 .u-sheet-1 {
   min-height: 1265px;
 }
 
@@ -1793,7 +1807,7 @@
 }
 
 .u-section-8 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/45243.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/45243.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1830,7 +1844,7 @@
 }
 
 .u-section-8 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/54634w6.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/54634w6.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1867,7 +1881,7 @@
 }
 
 .u-section-8 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/q3452q3.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/q3452q3.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1904,7 +1918,7 @@
 }
 
 .u-section-8 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/4354234.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/4354234.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1941,7 +1955,7 @@
 }
 
 .u-section-8 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working3.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working3.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1978,7 +1992,7 @@
 }
 
 .u-section-8 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/46346.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/46346.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -2151,7 +2165,9 @@
   .u-section-8 .u-text-14 {
     margin-bottom: -244px;
   }
-} .u-section-9 {
+}
+
+.u-section-9 {
   background-image: none;
   min-height: 1202px;
 }
@@ -2223,7 +2239,7 @@
 }
 
 @media (max-width: 1199px) {
-   .u-section-9 {
+  .u-section-9 {
     min-height: 1238px;
   }
 
@@ -2286,7 +2302,7 @@
 }
 
 @media (max-width: 767px) {
-   .u-section-9 {
+  .u-section-9 {
     min-height: 1191px;
   }
 
@@ -2318,7 +2334,7 @@
 }
 
 @media (max-width: 575px) {
-   .u-section-9 {
+  .u-section-9 {
     min-height: 1018px;
   }
 

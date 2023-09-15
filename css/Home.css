@@ -548,6 +548,62 @@
   margin: -665px auto 0 85px;
 }
 
+.u-section-3 .u-image-8 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/emdlogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-9 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/ccclogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-10 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/emclogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-11 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/iinlogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-12 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/gpplogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-13 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/itclogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
+.u-section-3 .u-image-14 {
+  width: 570px;
+  height: 570px;
+  background-image: url("../img/msflogo.png");
+  background-position: 50% 50%;
+  margin: -665px auto 0 85px;
+}
+
 .u-section-3 .u-group-2 {
   background-image: none;
   width: 632px;
@@ -1046,6 +1102,39 @@
 
 .u-section-5 .u-image-1 {
   background-image: url("../img/POLITI.png");
+  background-position: 50% 50%;
+  min-height: 367px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+}
+
+.u-section-5 .u-image-81 {
+  background-image: url("../img/emdpg.jpg");
+  background-position: 50% 50%;
+  min-height: 367px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+}
+
+.u-section-5 .u-image-82 {
+  background-image: url("../img/emdpsp.jpg");
+  background-position: 50% 50%;
+  min-height: 367px;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: -300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+}
+
+.u-section-5 .u-image-821 {
+  background-image: url("../img/emdpsp2.jpg");
   background-position: 50% 50%;
   min-height: 367px;
   --animation-custom_in-translate_x: 0px;

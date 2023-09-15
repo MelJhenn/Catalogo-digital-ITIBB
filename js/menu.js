@@ -7,28 +7,28 @@ $(function () {
         </ul>
         <ul class="u-align-center u-nav u-popupmenu-items u-unstyled u-nav-2">
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Electromedicina">EMD</a>
+        href="emd.html" title="Electromedicina">EMD</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Construcción Civil">CCC</a>
+        href="ccc.html" title="Construcción Civil">CCC</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Electromecánica">EMC</a>
+        href="emc.html" title="Electromecánica">EMC</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Informática Industrial">IIN</a>
+        href="iin.html" title="Informática Industrial">IIN</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Gas, Petróleo y Procesos">GPP</a>
+        href="gpp.html" title="Gas, Petróleo y Procesos">GPP</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Industria Textil y Confección">ITC</a>
+        href="itc.html" title="Industria Textil y Confección">ITC</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="https://website1649510.nicepage.io/" title="Metalurgia, Siderurgia y Fundición">MSF</a>
+        href="msf.html" title="Metalurgia, Siderurgia y Fundición">MSF</a>
         </li>
         <li class="u-nav-item"><a class="u-button-style u-nav-link active"
-        href="index.html">Contactanos</a>
+        href="http://itibb.edu.bo/">Contactanos</a>
         </li>
         </ul>
         `);

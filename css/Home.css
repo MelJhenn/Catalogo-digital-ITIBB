@@ -543,7 +543,7 @@
 .u-section-3 .u-image-1 {
   width: 570px;
   height: 570px;
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/4554266.jpg");
+  background-image: url("../img/edifITIBB.png");
   background-position: 50% 50%;
   margin: -665px auto 0 85px;
 }
@@ -752,7 +752,7 @@
 }
 
 .u-section-4 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('../img/PG.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -778,7 +778,7 @@
 }
 
 .u-section-4 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/wr3q.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('../img/psp.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -804,7 +804,7 @@
 }
 
 .u-section-4 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/3453.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('../img/emp.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -830,7 +830,7 @@
 }
 
 .u-section-4 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/5467.jpg');
+  background-image: linear-gradient(0deg, rgba(71, 92, 98, 0.75), rgba(71, 92, 98, 0.75)), url('../img/exce.png');
   background-position: 50% 50%;
 }
 
@@ -1045,7 +1045,7 @@
 }
 
 .u-section-5 .u-image-1 {
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/4354234.jpg");
+  background-image: url("../img/POLITI.png");
   background-position: 50% 50%;
   min-height: 367px;
   --animation-custom_in-translate_x: 0px;
@@ -1138,7 +1138,7 @@
 
 .u-section-5 .u-image-2 {
   min-height: 367px;
-  background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/45243.jpg");
+  background-image: url("../img/CALIDAD.png");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1367,7 +1367,7 @@
 }
 
 .u-section-6 .u-image-1 {
-  height: 43px;
+  height: 300px;
   width: 176px;
   margin: 0 auto;
 }
@@ -1385,7 +1385,7 @@
 }
 
 .u-section-6 .u-image-2 {
-  height: 43px;
+  height: 300px;
   width: 176px;
   margin: 0 auto;
 }
@@ -1403,7 +1403,7 @@
 }
 
 .u-section-6 .u-image-3 {
-  height: 43px;
+  height: 300px;
   width: 176px;
   margin: 0 auto;
 }
@@ -1421,7 +1421,7 @@
 }
 
 .u-section-6 .u-image-4 {
-  height: 43px;
+  height: 300px;
   width: 176px;
   margin: 0 auto;
 }
@@ -1807,7 +1807,7 @@
 }
 
 .u-section-8 .u-image-1 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/45243.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/emdfondo.jpg');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1844,7 +1844,7 @@
 }
 
 .u-section-8 .u-image-2 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/54634w6.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/cccfondo.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1881,7 +1881,7 @@
 }
 
 .u-section-8 .u-image-3 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/q3452q3.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/emcfondo.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1918,7 +1918,7 @@
 }
 
 .u-section-8 .u-image-4 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/4354234.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/iinfondo.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1955,7 +1955,7 @@
 }
 
 .u-section-8 .u-image-5 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/guy-shows-document-girl-group-young-freelancers-office-have-conversation-working3.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/gppfondo.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -1992,7 +1992,7 @@
 }
 
 .u-section-8 .u-image-6 {
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('https://assets.nicepagecdn.com/d2cc3eaa/1649510/images/46346.jpg');
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/itcfondo.png');
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
@@ -2002,6 +2002,10 @@
 }
 
 .u-section-8 .u-container-layout-6 {
+  padding: 30px;
+}
+
+.u-section-8 .u-container-layout-7 {
   padding: 30px;
 }
 
@@ -2025,6 +2029,43 @@
 }
 
 .u-section-8 .u-text-13 {
+  margin: 12px auto 0 0;
+}
+
+.u-section-8 .u-image-7 {
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('../img/msffondo.jpg');
+  background-position: 50% 50%;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 300px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 1;
+}
+
+.u-section-8 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-8 .u-line-1 {
+  width: 276px;
+  transform-origin: left center;
+  --animation-custom_in-translate_x: 0px;
+  --animation-custom_in-translate_y: 0px;
+  --animation-custom_in-opacity: 0;
+  --animation-custom_in-rotate: 0deg;
+  --animation-custom_in-scale: 0.3;
+  margin: 0 auto 0 0;
+}
+
+.u-section-8 .u-text-2 {
+  margin-left: 0;
+  margin-bottom: 0;
+  margin-top: 20px;
+  --animation-custom_in-scale: 0.3;
+  font-weight: 700;
+}
+
+.u-section-8 .u-text-3 {
   margin: 12px auto 0 0;
 }
 
@@ -2154,6 +2195,11 @@
   }
 
   .u-section-8 .u-container-layout-6 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-8 .u-container-layout-7 {
     padding-left: 20px;
     padding-right: 20px;
   }
@@ -2366,4 +2412,20 @@
   .u-section-9 .u-text-1 {
     margin-top: 44px;
   }
+}
+
+.socials-wrapper li {
+  display: inline-block;
+  margin: 10px;
+}
+
+.socials-wrapper {
+  list-style: none;
+}
+
+.title-about {
+  font-size: 20px;
+  font-family: Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: bold;
 }
